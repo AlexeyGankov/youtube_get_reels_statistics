@@ -1,0 +1,2 @@
+"C:\Program Files\7-Zip\7z.exe" a -sdel "F:\DWH\youtube_2023API\data\archive\data_%DATE%.zip" F:\DWH\youtube_2023API\data\*.xlsx
+"C:\Program Files\7-Zip\7z.exe" a -sdel "F:\DWH\youtube_2023API\data\archive\csv_%DATE%.zip" F:\DWH\youtube_2023API\data\*.csv
